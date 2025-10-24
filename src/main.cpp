@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-// put function declarations here:
+// put function declarations here: Startup
 int myFunction(int, int);
 
 void setup() {
