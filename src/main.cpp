@@ -16,10 +16,10 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly: ...
+  // put your main code here, to run repeatedly: ..... test test
 }
 
-// put function definitions here:
+// put function definitions here: example
 int myFunction(int x, int y) {
   return x + y;
 }
